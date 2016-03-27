@@ -1,0 +1,7 @@
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\MOD\DAL\bin\Debug\DAL.dll
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\MOD\DAL\bin\Debug\DAL.pdb
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\MOD\DAL\bin\Debug\MOD.dll
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\MOD\DAL\bin\Debug\MOD.pdb
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\MOD\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\MOD\DAL\obj\Debug\DAL.dll
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\MOD\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,9 @@
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\MOD\BLL\bin\Debug\BLL.dll
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\MOD\BLL\bin\Debug\BLL.pdb
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\MOD\BLL\bin\Debug\DAL.dll
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\MOD\BLL\bin\Debug\MOD.dll
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\MOD\BLL\bin\Debug\DAL.pdb
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\MOD\BLL\bin\Debug\MOD.pdb
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\MOD\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\MOD\BLL\obj\Debug\BLL.dll
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\MOD\BLL\obj\Debug\BLL.pdb

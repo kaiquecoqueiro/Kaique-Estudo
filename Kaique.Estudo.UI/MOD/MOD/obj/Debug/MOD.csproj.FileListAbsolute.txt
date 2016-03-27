@@ -1,0 +1,4 @@
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\MOD\MOD\bin\Debug\MOD.dll
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\MOD\MOD\bin\Debug\MOD.pdb
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\MOD\MOD\obj\Debug\MOD.dll
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\MOD\MOD\obj\Debug\MOD.pdb

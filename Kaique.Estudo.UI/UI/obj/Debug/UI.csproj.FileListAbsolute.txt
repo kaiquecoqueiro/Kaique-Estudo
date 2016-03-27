@@ -1,0 +1,16 @@
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\UI\bin\Debug\UI.exe.config
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\UI\bin\Debug\UI.exe
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\UI\bin\Debug\UI.pdb
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\UI\obj\Debug\UI.exe
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\UI\obj\Debug\UI.pdb
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\UI\obj\Debug\Kaique.Estudo.UI.UI.frmPrincipal.resources
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\UI\bin\Debug\BLL.dll
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\UI\bin\Debug\DAL.dll
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\UI\bin\Debug\MOD.dll
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\UI\bin\Debug\BLL.pdb
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\UI\bin\Debug\DAL.pdb
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\UI\bin\Debug\MOD.pdb
+C:\Users\familia\Desktop\Fatec\C# - Projects\Kaique.Estudo.UI\UI\obj\Debug\Kaique.Estudo.UI.UI.frmCliente.resources
